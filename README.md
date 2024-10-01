@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **harisbinyousaf24@gmail.com**
 
-- ⚡ Fun fact **I like food!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
