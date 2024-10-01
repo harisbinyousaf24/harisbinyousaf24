@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Robotics Projects with core focus on Perception Systems**
 
-- 📫 How to reach me **harisbinyousaf242gmail.com**
+- 📫 How to reach me **harisbinyousaf24@gmail.com**
 
 - ⚡ Fun fact **I like food!**
 
