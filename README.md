@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haris Bin Yousaf</h1>
-<h3 align="center">A Bachelors in Robotics and Freelancer from Pakistan.</h3>
+<h3 align="center">I have done Bachelors in Mechatronics with major in Robotics.</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
-
-- 🌱 I’m currently learning **Machine Learning, Python Programming**
-
-- 💬 Ask me about **Python Programming**
+- 🔭 I’m currently working on **Robotics Projects with core focus on Perception Systems**
 
 - 📫 How to reach me **harisbinyousaf242gmail.com**
 
